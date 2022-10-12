@@ -1,0 +1,959 @@
+commit 0fd7c5e936543b1af5fc7d94f4f843ef1026fba5
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 10 06:35:23 2022 -0700
+
+    gitignore
+
+commit af8d1bb93fadd9d6dae12323174d87d66d975d6e
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 10 05:55:36 2022 -0700
+
+    gitignore
+
+commit bcc5842287f8f2f736e5dae92f6ffbb02bd05cd8
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Oct 6 11:23:05 2022 -0700
+
+    fix
+
+commit 4fe92de93f9d3d5fe31b4df7e890d512ca9291c1
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Oct 6 11:23:03 2022 -0700
+
+    alt
+
+commit cd78b84b872ff7426afc4499defd54a4d84410b0
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Oct 6 11:23:02 2022 -0700
+
+    3-array_range.c
+
+commit df6585d84864dacee16ceef1671bf4e728ab4c69
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Oct 6 11:23:01 2022 -0700
+
+    2-calloc.c
+
+commit 2fcd9e109a0803c010f4b226baccf1eeb9713e52
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Oct 6 11:23:00 2022 -0700
+
+    1-string_nconcat.c
+
+commit d2def0daa24abb226008f53a526158192f190da3
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Oct 6 11:22:58 2022 -0700
+
+    101-mul.c
+
+commit 0e24568f22adac44c2aa9fad415674b75fd074e3
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Oct 6 11:22:57 2022 -0700
+
+    100-realloc.c
+
+commit 828db94523634afa63db07cc898ff7177c5f06c6
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Oct 6 11:22:56 2022 -0700
+
+    0-malloc_checked.c
+
+commit a6a8eaf9743e2ea79c271cfa1236a834ceb16cf7
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Oct 6 11:22:55 2022 -0700
+
+    create readme
+
+commit 1cdab9416d8399948657f22a8e6ed8a3bf410bfd
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 3 16:22:09 2022 -0700
+
+    update
+
+commit 27d9097448b05517bd7592c202cbaa0ec26d54cf
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 3 16:22:07 2022 -0700
+
+    alt
+
+commit b4b91dcb4ec633d81d2ffc0f3e9655315aa8062b
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 3 16:22:06 2022 -0700
+
+    4-free_grid.c
+
+commit d96c053c42d97f641d3bc1856b66cde0b2614411
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 3 16:22:05 2022 -0700
+
+    3-alloc_grid.c
+
+commit 30c98c8c3076137a3607398325800df0fe2ce62f
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 3 16:22:05 2022 -0700
+
+    2-str_concat.c
+
+commit 9716643e8b2ac16915ec7c61dffee5409804fd2d
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 3 16:22:04 2022 -0700
+
+    1-strdup.c
+
+commit 9bfb27e2eec4f8a022ad40168699e404e2f99121
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 3 16:22:03 2022 -0700
+
+    101-strtow.c
+
+commit e3eab232e4244e8cc96f7b6b566a97e0d85a0533
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 3 16:22:02 2022 -0700
+
+    100-argstostr.c
+
+commit 8229ca2d7826d852a6a5a18c96ef7ff07694503e
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 3 16:22:00 2022 -0700
+
+    0-create_array.c
+
+commit 0500ef0888d486e9e8da3cbe7991b4843bea091b
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Oct 3 16:21:58 2022 -0700
+
+    create readme
+
+commit bfdfd09fcb6d17f90cad231dada58c9e45fbed4d
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:18:41 2022 -0700
+
+    latest update
+
+commit bec437f58780f27e9e6c455878bb3f775111ec96
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:44 2022 -0700
+
+    task 23
+
+commit f0270a0d60c32a93ddda68f257567c29b23b4e62
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:43 2022 -0700
+
+    task 22
+
+commit 080b564d8e5940af7c05e427755f7f9dcb478c67
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:42 2022 -0700
+
+    task 21
+
+commit c0e5f85a6e680416da95327f8361108daa16247e
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:41 2022 -0700
+
+    task 20
+
+commit 834fdb393cdfb5b3c74706b9a0b8d409da1ba95c
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:41 2022 -0700
+
+    task 19
+
+commit ca9b727a7ea891f7fafbc5874bf4f0982a328865
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:40 2022 -0700
+
+    task 18
+
+commit 6f7486c19dead3f6bf27be9192c3f5e83f1e4d1b
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:39 2022 -0700
+
+    task 17
+
+commit 0de914b602ed70d7cb0747bca1ed1ae338099f05
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:38 2022 -0700
+
+    task 16
+
+commit 13e588f89f6e25527a71d3460dd5fbffdc9830a2
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:37 2022 -0700
+
+    task 15
+
+commit c5cc83053ff919d8b61a262fb8e4ecd8950ca101
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:37 2022 -0700
+
+    task 14
+
+commit d3587ab9093a6f3cacba39dce1a057cec1d8a0fa
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:36 2022 -0700
+
+    task 13
+
+commit 822e7269e7854e3cf03b1bb376d5ad87027f1af3
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:35 2022 -0700
+
+    task 12
+
+commit b4dd04734232d172c023ecc6ebe645ac3b331ee0
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:34 2022 -0700
+
+    task 11
+
+commit 8e9b5e77b34462afa11f20855eb4421f1c069026
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:33 2022 -0700
+
+    task 10
+
+commit b02854e0fc3b5527f521bd2425aa01400a8e5abc
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:32 2022 -0700
+
+    task 9
+
+commit d903afc6e4f528bc2dab9226c79b25d720487e00
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:31 2022 -0700
+
+    task 8
+
+commit 8582967f43b6918c9ff746dc5426a706d1eb2493
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:30 2022 -0700
+
+    task 7
+
+commit 53d6b9657f8146a377ccc53af318c1c0ea0f8f10
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:30 2022 -0700
+
+    task 6
+
+commit c453bb9c54fd5e8f6290b28cc87384dfd3c83553
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:29 2022 -0700
+
+    task 5
+
+commit 39645c6f05860eb9339fe3027ba267fe7d030ffc
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:28 2022 -0700
+
+    task 4
+
+commit 12401fc310b4898bf465e67465d27e2a30a2cb57
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:27 2022 -0700
+
+    task 3
+
+commit e37f34a99b9a0c71b1b9aa67edaa65b93663b985
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:26 2022 -0700
+
+    task 2
+
+commit 8f29b3a22f9b823412e9842abb6a577748d4d1e9
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:17:25 2022 -0700
+
+    task 1
+
+commit c21e389ab13e742ffdf30ca013288d4376cee32c
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:14:41 2022 -0700
+
+    create readme
+
+commit af11b3923ba22e35610ba2df92d4eaad8228577a
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:09:30 2022 -0700
+
+    ignore emacs
+
+commit ce830bc65632b857f2572e86a7ae5b6093caf7bb
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:08:36 2022 -0700
+
+    ignore emacs
+
+commit 168db6ca77d7da6f056d8d88df7b2a61f16539af
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 30 14:08:35 2022 -0700
+
+    create readme
+
+commit ed8a1cf2b65c11ce8a3e49b20cf995bd912e51de
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 28 14:13:53 2022 -0700
+
+    101-wildcmp.c
+
+commit 43884b6399c7daa78fc19d8c9718dabd886b0ca0
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 28 03:58:07 2022 -0700
+
+    ignore emacs
+
+commit 20d0a4e8677f9bf63e1b262dbd69571b505c86a6
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 28 03:52:37 2022 -0700
+
+    main.h updated
+
+commit 34442489ea6dc4e453f4a563b6b1a4222955f00e
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 28 03:51:11 2022 -0700
+
+    ignore emacs
+
+commit 65cb0ef35707c9df65e7f95db77ca7a086011ab0
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 28 03:51:09 2022 -0700
+
+    main.h updated
+
+commit d4c1427827eb80499bde0c7054c3872ecf4eda01
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 28 03:51:07 2022 -0700
+
+    create readme
+
+commit 87f25b7a1b768642e0172cdb2144baa4d5652286
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:22 2022 -0700
+
+    gitignore
+
+commit f9c80419741f3b82f9066aaec09ec3d7ee39a1ce
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:21 2022 -0700
+
+    README.md
+
+commit eae11e9a62a2e5b77e7a82e9c140b71d51b71b68
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:19 2022 -0700
+
+    main.h
+
+commit df1760ad33a34a16a1152a2ffddeca5d385afd32
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:19 2022 -0700
+
+    alt
+
+commit e7136a50e6be596d864df044114880ebdce1d11d
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:18 2022 -0700
+
+    8-print_diagsums.c
+
+commit 88dc621c37a7754ec5971d8b9752250ba7d35ece
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:17 2022 -0700
+
+    7-print_chessboard.c
+
+commit 084f2b76fd93244f906ffa2110cc39eae60c2687
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:16 2022 -0700
+
+    5-strstr.c
+
+commit ae8b59cedbc21355cb65ab405dad191fe4b26c2f
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:15 2022 -0700
+
+    4-strpbrk.c
+
+commit 04318c7b8731e25902ac6fbc0fe2737abe778595
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:14 2022 -0700
+
+    3-strspn.c
+
+commit e2fec091c33042f23b8e79e498c4f31a096b0cd1
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:13 2022 -0700
+
+    2-strchr.c
+
+commit 2064602533c5953d298d8da85a1a4690134abba8
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:12 2022 -0700
+
+    1-memcpy.c
+
+commit 6b28da4b401952dad01bc4fe59d7486ae78d5800
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:11 2022 -0700
+
+    101-crackme_password
+
+commit f01c848cc90dc3555c00fc454177d8f289ab796d
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:10 2022 -0700
+
+    100-set_string.c
+
+commit fd4f507a6370f03bc96d6fec3976ae1d081faac6
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:09 2022 -0700
+
+    0-memset.c
+
+commit 4a8617540b4f44ec93387929c5e136b7dfe0af02
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 26 07:18:08 2022 -0700
+
+    create readme
+
+commit 02bd030136693566c94cd5430d1d3f41d9e2b807
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:43 2022 -0700
+
+    task 15
+
+commit 9943dae20b7a58e593538a390a5be7f174664265
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:41 2022 -0700
+
+    task 13
+
+commit 53dcd8c2bd8da54e13b1be088161883d52b7d07a
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:41 2022 -0700
+
+    task 12
+
+commit f047b8df1c5a60d543ed95828404fbb245c1c543
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:40 2022 -0700
+
+    task 11
+
+commit 04f13f4e2d251f4a2d885ef9c24cb53deb9f59e1
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:39 2022 -0700
+
+    task 10
+
+commit 7ff3e89194130b1b2fde07abbab01293a6354bc9
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:38 2022 -0700
+
+    task 9
+
+commit 285f4f1906b17af44568f0baa8d47af912f4c70e
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:37 2022 -0700
+
+    task 8
+
+commit 48359edbc330d7095c44bbd9c6ba88991b47b8e2
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:36 2022 -0700
+
+    task 7
+
+commit 3881560c33bb5316fb5823175df6ff1140f92e62
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:35 2022 -0700
+
+    task 6
+
+commit c936b8cff14825f85dad27ffe3e4509714a5f7d1
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:34 2022 -0700
+
+    task 5
+
+commit 74dc820f0548690eb2a46cd6c973f06ed7caff11
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:33 2022 -0700
+
+    task 4
+
+commit 331f46ba2e07ea59d5813c1381260dae3aa70969
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:32 2022 -0700
+
+    task 3
+
+commit 95b2e98e17fb24a5d450deb4b1abd32a5445f4e3
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:31 2022 -0700
+
+    task 2
+
+commit 61d362ca84052261c8facb485cad1c52408e05fb
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:38:30 2022 -0700
+
+    task 1
+
+commit 3797fa251aa44ff40c4306229a714b08127e6be6
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:37:20 2022 -0700
+
+    ignore stuff
+
+commit 7c958be52abaa88828fed7cc4084d11fae35a0d3
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:37:19 2022 -0700
+
+    task 2
+
+commit bb046747724f4afff16a4bb861c5c1e3eabb2b08
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Wed Sep 21 06:37:16 2022 -0700
+
+    create readme
+
+commit de8be09dc24028576b1adc1ba5534212c7487f54
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:28 2022 -0700
+
+    .
+
+commit 27bf87b7be93b2b56ad790d3140fd1ac84a53b80
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:27 2022 -0700
+
+    task 15
+
+commit ca2f0b31024a7ca0fa9de9d1053d3df837e0f3df
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:26 2022 -0700
+
+    task 14
+
+commit 0850e16d7d7359e4fa1a5a1ae8f6955f49e2ae77
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:24 2022 -0700
+
+    task 12
+
+commit b434841fa309f5248c7fb82bef0bc5d69b0773ec
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:24 2022 -0700
+
+    task 11
+
+commit d10a21142f3e2dc557abcefb5ebd634ab34a198f
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:22 2022 -0700
+
+    task 10
+
+commit c67017d1b16b8becec4442f64aba2674082480ee
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:22 2022 -0700
+
+    task 9
+
+commit dd0064343d1b7d1e06d372d62b2831434ce9d62e
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:21 2022 -0700
+
+    task 8
+
+commit fbf3b9af5e728c68c302893cb54f60225555c5f8
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:20 2022 -0700
+
+    task 7
+
+commit eba2e3ad5185d0772f03759b0851a1e1292666e8
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:19 2022 -0700
+
+    task 6
+
+commit 1b2f960c0a746c6d5e8530bdc85a4a84a804d1f0
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:18 2022 -0700
+
+    task 5
+
+commit 0a320d26e96b292c7a80584321fb22e112349685
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:17 2022 -0700
+
+    task 4
+
+commit 3b913f909d103da170aa4d806a0b01ef5ec167ba
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:16 2022 -0700
+
+    task 3
+
+commit 95b271658fb115f4277df7ddaf25df55bfaee08a
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:15 2022 -0700
+
+    task 2
+
+commit 595708af94bfad3ad5c5b566c7c217af09fb5111
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:14 2022 -0700
+
+    task 1
+
+commit a9fc647da69441e4cc104a080dafde05d69294d3
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:44:13 2022 -0700
+
+    create readme
+
+commit 515551b6aefaee96e2d78e7264029ac519e2a0ca
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:43:08 2022 -0700
+
+    error
+
+commit 319697fa8d2467f62018a9a2e96aa7e2418872fb
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:41:44 2022 -0700
+
+    create readme
+
+commit e48d788785c26200bb80de77eaddf6f44041ca1f
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:41:27 2022 -0700
+
+    task 1
+
+commit 1f2f6458fc209a00adfc44d473a439f2acf7f8ec
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Mon Sep 19 06:41:26 2022 -0700
+
+    create readme
+
+commit 11985b9bc202166bdea6fa0a23cb0d210404b494
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:30 2022 -0700
+
+    ignore emacs
+
+commit a9ed7ff7dcdfe069be856927e7cc8e0d4b6aebb3
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:29 2022 -0700
+
+    latest update
+
+commit 21a3430d8b05c931e860740ca179761abcad2b5c
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:28 2022 -0700
+
+    latest update
+
+commit d1399cadea2442daf43eb30f7e8b1ec5840294ed
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:26 2022 -0700
+
+    latest update
+
+commit c5b6176329128ab546db20871ca1047a9911f8f8
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:26 2022 -0700
+
+    latest update
+
+commit 6a05a6b58ddcf002c9544c22141d866ff73c554b
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:25 2022 -0700
+
+    latest update
+
+commit c7d93efc51bd9f845fe41a87d7f2ac535f02b76b
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:24 2022 -0700
+
+    latest update
+
+commit 8fcd5127fa40466381fcae6e2db82373e0c5f11f
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:23 2022 -0700
+
+    latest update
+
+commit 6a04c3b2cbaf674ec86b29f3670959f87529e321
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:22 2022 -0700
+
+    latest update
+
+commit 785c12ce22d5bca794055c3830b23081a139b0cf
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:21 2022 -0700
+
+    latest update
+
+commit 8a79d2450013d8670efcc35a9b69787909dc78f6
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:20 2022 -0700
+
+    latest update
+
+commit cb8a62d2706d24cc4c0aec7f74ab13d8e72b148f
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:20 2022 -0700
+
+    latest update
+
+commit b3cb573f5f426fe9aee6785c9b954b8ae6c7c603
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:19 2022 -0700
+
+    latest update
+
+commit 3477d8fae14479bcf68f06eca3e53c4bd96adafa
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:18 2022 -0700
+
+    latest update
+
+commit 0c427ca150a7e3522169a1d566790ebd83443e51
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:17 2022 -0700
+
+    latest update
+
+commit 8543cc28fedcf621289cd96b18e45f32233db3be
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:16 2022 -0700
+
+    latest update
+
+commit 9d50ad1ceffd657636a955ea4cf57811389f51c7
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 15 04:06:15 2022 -0700
+
+    create readme
+
+commit f63d3e67973b657bc0c8b6d7ff00bf94707ec12f
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Tue Sep 13 06:21:40 2022 -0700
+
+    made runnable
+
+commit db58be0fa19593de5495381a397d21592589dd5e
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Tue Sep 13 05:56:22 2022 -0700
+
+    .gitignore added
+
+commit 4d92de326e7d9e802793ab7c27713ad5edf7c7e7
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Tue Sep 13 05:56:17 2022 -0700
+
+    Create README
+
+commit 22963ebf7a3f62d20245d83ab576bb1455138e44
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Tue Sep 13 05:45:09 2022 -0700
+
+    .gitignore added
+
+commit be38e407d7d547f986c2f3f1abcbf56e48be72d0
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Tue Sep 13 05:44:57 2022 -0700
+
+    Create README
+
+commit 5282fa3cae3cc14e1febdee31ad149bd77658447
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:47:54 2022 -0700
+
+    .gitignore added
+
+commit c94c416231a50886bb9dc53c7b0e6bb635c9cad2
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:47:43 2022 -0700
+
+    latest update
+
+commit 79fd45336cd21b342e100185cc00126542b246e9
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:47:01 2022 -0700
+
+    latest update
+
+commit 08c5ff30348c0418011549db753a93a45ef51dab
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:46:50 2022 -0700
+
+    latest update
+
+commit 8096879bf8d116c5e4a80a7780304de65cc95e5a
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:46:39 2022 -0700
+
+    latest update
+
+commit 39de799a22b3ee7c27f9cfb86cb293ae8f599387
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:46:28 2022 -0700
+
+    latest update
+
+commit 396f03d30e6ba9956455982eb83f7e39d88866a6
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:46:17 2022 -0700
+
+    latest update
+
+commit 6e57400f9ea93ae5494db6c8450c8f06924cf783
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:46:06 2022 -0700
+
+    latest update
+
+commit dab66fbf539e91017baf5b60be7f99935f9bc53b
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:45:54 2022 -0700
+
+    latest update
+
+commit 8f164ad5406bb24e5b8289b302b48e9f83d182ea
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:45:43 2022 -0700
+
+    latest update
+
+commit 34acbf402edbcc70d781e5a58bbdef677436edbf
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:45:32 2022 -0700
+
+    latest update
+
+commit f5dcdecdb1c412cdba95f07476ab3ff6cfd9910b
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:45:21 2022 -0700
+
+    latest update
+
+commit 3e5e7c4890801c281bfab06db53c356dc4663397
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:45:10 2022 -0700
+
+    latest update
+
+commit 3ab096bc30a0f8d3b3f0cafe90a6946eab02ab1e
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:44:59 2022 -0700
+
+    latest update
+
+commit 4551249520787d0a1498b580eb47fbdfeaec7ebb
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Fri Sep 9 06:44:48 2022 -0700
+
+    latest update
+
+commit cec101c1240a138f0531135f885a906a239a518a
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 08:13:11 2022 -0700
+
+    100-intel
+
+commit d82ef4750417156db0fd2a5c6e4111027c3ad893
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 08:11:30 2022 -0700
+
+    0x00-hello_world 100-intel
+
+commit d4d95d28918f0bde0bd83a18364627f4261d7113
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 08:04:26 2022 -0700
+
+    correct
+
+commit e77f8388a2f10fa904a0e3c03e69273b8d005b16
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 08:00:17 2022 -0700
+
+    .gitignore added
+
+commit b05d17a18f3aa7903fd5b25235230e03ade25691
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 08:00:10 2022 -0700
+
+    README.md
+
+commit 56e386402d7c03852319d0e32cd52bf6557aab2a
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 07:59:43 2022 -0700
+
+    6-size.c
+
+commit 4f9a13a57eda72b9bc97152612ed29e477e2da60
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 07:59:36 2022 -0700
+
+    5-printf.c
+
+commit 9ee4e67e0d149e2a7af03edff347d4f375d65414
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 07:59:29 2022 -0700
+
+    4-puts.c
+
+commit c35026df0e8de0e84a887c2d53a7c9550100dff0
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 07:59:22 2022 -0700
+
+    3-name
+
+commit 6f4e070b1b96c912911bb1a38d67f94c913b0f34
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 07:59:16 2022 -0700
+
+    2-assembler
+
+commit d9ea1761fff3ce3baa64b2ecfe56a4b12c7ff173
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 07:59:09 2022 -0700
+
+    1-compiler
+
+commit bfd5bf5bab7c121cfc1582d70d4841d36dab4e0a
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 07:59:02 2022 -0700
+
+    101-quote.c
+
+commit 57b067e27c876beacc1824f8a06c1a7e34af15c0
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 07:58:55 2022 -0700
+
+    100-intel
+
+commit 068c7c5492f526c42e87c386555a62e913359816
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 07:57:13 2022 -0700
+
+    0-preprocessor
+
+commit 8e5ce9268b3df9c8cdfac3a31182b3be849b6a6b
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 07:51:58 2022 -0700
+
+    readme
+
+commit 3cfd5ad5c89ef3c38cef68974f8b727f54ae6c02
+Author: stephenrabbi <stephenodoji@gmail.com>
+Date:   Thu Sep 8 07:49:13 2022 -0700
+
+    0-preprocessor
